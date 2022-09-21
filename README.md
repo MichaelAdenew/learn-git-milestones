@@ -263,7 +263,7 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 1. Test your file(s) in a web browser
 1. Commit and push the files to Github
 1. Paste the github.io link into the appropriate Moodle forum
-
+ 
 
 
 
