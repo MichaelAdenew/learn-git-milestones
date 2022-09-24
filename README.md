@@ -13,6 +13,8 @@ Below is a list of tasks. By mid-semester, everyone should...
 
 
 
+
+
 ## Contents
 
 1. [Instructions](#instructions)
