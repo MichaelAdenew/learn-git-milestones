@@ -291,7 +291,7 @@ Item # | Description | Completed
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji | emoji in atom
 2f | Link to `commit #4 from Atom` | <a href ="https://github.com/MichaelAdenew/learn-git-milestones/commit/bd2e336042140793f5312901e45fcb62b915d370" > commit #4 from Atom </a>
-3a | Link to `my-awesome-project` github.com repo page |
+3a | Link to `my-awesome-project` github.com repo page | <a href = "https://github.com/MichaelAdenew/my-awesome-project"> awesome project </a>
 4a | Link to `my-awesome-project` github.io "project site" |
 
 
