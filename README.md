@@ -13,8 +13,6 @@ Below is a list of tasks. By mid-semester, everyone should...
 
 
 
-
-
 ## Contents
 
 1. [Instructions](#instructions)
@@ -290,9 +288,10 @@ Item # | Description | Completed
 2a | 2nd Favorite emoji | 🍇
 2b | Link to `commit #2 from Github Desktop` | <a href = "https://github.com/MichaelAdenew/learn-git-milestones/commit/e4093085d44f46bae6d8d45c22ffaff46f0ba2d5" > commit #2 from Github Desktop </a>
 2c | Full path to your working directory | /c/Users/micha/sites/critical-web-design/learn-git-milestones
+
 2d | Link to `commit #3 from CLI` |
-2e | 3rd Favorite emoji |
-2f | Link to `commit #4 from Atom` |
+2e | 3rd Favorite emoji | emoji in atom
+2f | Link to `commit #4 from Atom` | <a href ="https://github.com/MichaelAdenew/learn-git-milestones/commit/bd2e336042140793f5312901e45fcb62b915d370" > commit #4 from Atom </a>
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
 
