@@ -9,9 +9,9 @@ Below is a list of tasks. By mid-semester, everyone should...
 - Be able to do the task
 - Make it clear through your actions you understand each concept
 
- 
- 
- 
+
+
+
 
 ## Contents
 
@@ -265,7 +265,7 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 1. Test your file(s) in a web browser
 1. Commit and push the files to Github
 1. Paste the github.io link into the appropriate Moodle forum
- 
+
 
 
 
@@ -285,7 +285,7 @@ Item # | Description | Completed
 1b | Link to `commit #1 from Github.com` | <a href = "https://github.com/MichaelAdenew/learn-git-milestones/commit/327cefa1a7b43bd79c10380cbb63af8d3b62ace3" > commit #1 from Github.com </a>
 1c | Link to markdown tables docs | <a href = "https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#tables" > Markdown tables link </a>
 1d | What does `log` do? | Shows commit logs
-2a | 2nd Favorite emoji |
+2a | 2nd Favorite emoji | emoji
 2b | Link to `commit #2 from Github Desktop` |
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
