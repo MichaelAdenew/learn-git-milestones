@@ -9,7 +9,9 @@ Below is a list of tasks. By mid-semester, everyone should...
 - Be able to do the task
 - Make it clear through your actions you understand each concept
 
-
+ 
+ 
+ 
 
 ## Contents
 
