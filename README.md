@@ -289,9 +289,7 @@ Item # | Description | Completed
 1d | What does `log` do? | Shows commit logs
 2a | 2nd Favorite emoji | 🍇
 2b | Link to `commit #2 from Github Desktop` | <a href = "https://github.com/MichaelAdenew/learn-git-milestones/commit/e4093085d44f46bae6d8d45c22ffaff46f0ba2d5" > commit #2 from Github Desktop </a>
-
 2c | Full path to your working directory | /c/Users/micha/sites/critical-web-design/learn-git-milestones
-
 2d | Link to `commit #3 from CLI` |
 2e | 3rd Favorite emoji |
 2f | Link to `commit #4 from Atom` |
